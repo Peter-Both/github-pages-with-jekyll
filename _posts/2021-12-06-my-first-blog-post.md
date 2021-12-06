@@ -1,1 +1,5 @@
-My first blog post in github-learning-lab
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
+
